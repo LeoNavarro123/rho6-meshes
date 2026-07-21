@@ -1,0 +1,17 @@
+{
+  "@type": "neuroglancer_segment_properties",
+  "inline": {
+    "ids": [
+      "255"
+    ],
+    "properties": [
+      {
+        "id": "label",
+        "type": "label",
+        "values": [
+          "rho6_mask_frequency_N6_blur_s2_thr_0.4_only_PLCe_filtered_min100_to_CRANTb_label_255"
+        ]
+      }
+    ]
+  }
+}
